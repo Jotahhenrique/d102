@@ -35,6 +35,19 @@ div{
     display: flex;
 }
 div ul{
-    list-style-image: url('images/');
+    list-style-image: url('images/ninja.png');
 
+}
+footer div{
+ justify-content: center;
+ align-items: center;
+ justify-content: space-around;
+  
+}
+#div2{
+    display: block;
+    display: flex;
+    align-content:flex-start;
+    justify-content: space-evenly;
+    justify-items: right;
 }
